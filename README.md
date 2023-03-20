@@ -7,9 +7,9 @@
 
  
  
- <img src="screenshots/temperature.PNG" title="Hamilton Temperature 2021" height= 500 width= 430><img src="screenshots/ice%20cream.PNG" title="Hamilton Temperature 2021" height= 500 width= 430>
+ <img src="screenshots/temperature.PNG" title="Hamilton Temperature 2021" height= 500 width= 400><img src="screenshots/ice%20cream.PNG" title="Hamilton Temperature 2021" height= 500 width= 400>
  
-  <img src="screenshots/piechart.PNG" title="Hamilton Temperature 2021" height= 500 width= 430><img src="screenshots/stock.PNG" title="Hamilton Temperature 2021" width= 430 height= 500>
+  <img src="screenshots/piechart.PNG" title="Hamilton Temperature 2021" height= 500 width= 400><img src="screenshots/stock.PNG" title="Hamilton Temperature 2021" width= 400 height= 500>
  
  
 
